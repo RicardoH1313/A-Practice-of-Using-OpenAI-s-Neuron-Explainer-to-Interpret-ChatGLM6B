@@ -1,1 +1,1 @@
-This is a Demo
+This is a demo for obtaining GLM activation values
